@@ -14,3 +14,5 @@ DAX
 Power Query
 Arquivo do Projeto
 PROJETO_RH.pbix
+
+Arquivos de imagens/tabelas utilizados se encontram anexados.
